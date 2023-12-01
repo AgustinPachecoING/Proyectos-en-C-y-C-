@@ -1,0 +1,16 @@
+digraph dependencias {
+  rankdir=RL;
+  
+  node [shape=circle,fontname="Arial", fontsize=12]
+  
+    Cal[label="Calculator.c"];
+    Stackh[label="Stack.h"];
+    Stackc[label="Stack.c"];
+    Scanh[label="Scanner.h"];
+    Scanc[label="Scanner.c"];
+    Stackh -> Cal[label="importa"]
+    Scanh -> Cal[label="importa"]
+    Scanh -> Scanc[label="exporta"]
+    Stackc -> Stackh[label="exporta"]
+    
+}

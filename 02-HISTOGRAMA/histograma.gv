@@ -1,0 +1,15 @@
+digraph longitudes_palabras {
+  rankdir=LR;
+  
+  node [shape=circle,fontname="Arial", fontsize=12]
+
+
+
+  out[label="OUT"]
+  out->in[label="resetear contador de caracteres/lp=1 \n no espaciador "]
+  out->out[label="espaciador"]
+  in [label="IN"]
+  in->in  [label="contar caracter\n lp++ \n no espaciador"]
+  in->out [label=" espaciador\n agregar palabra / longitudes[lp-1]++"]
+    
+}

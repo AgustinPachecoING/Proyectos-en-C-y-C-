@@ -1,0 +1,37 @@
+digraph Scanner {
+  rankdir=LR;
+  
+  node [shape=circle,fontname="Arial", fontsize=12]
+  
+    Dig[label="Inicio +"];
+    Sum[label="Suma (+)"];
+    Resta[label="Resta (+)"];
+    Mul[label="Mult (+)"];
+    Div[label="Div (+)"];
+    Men[label="menos(-)"];
+    Err[label="LexError (+)"]
+    Res[label="Resultado (+)"]
+    Pun[label="punto(.)"]
+    Num[label="Numero (+) "]
+    FR[label="Part. Frac.(+)"]
+
+    Dig-> Dig[label="espaciador"] 
+    Dig-> Err[label="no digito"];
+    Dig-> Sum[label="+"] 
+    Dig -> Men[label="-"] 
+    Men-> Resta[label="espaciador"]
+    Dig -> Mul[label="*"]
+    Dig-> Div[label="/"]
+    Men-> Num[label="digito"]
+    Men-> Err[label="no digito"]
+    Num->Pun[label="."]
+    Num->Err[label="no digito"]
+    Dig-> Num[label="digito"]
+    Num->Num[label="digito"]
+    Pun->FR[label="digito"]
+    Pun->Err[label="no digito"]
+    Dig->Res[label="barra n"]
+    FR->Err[label="no digito"]
+    FR->FR[label="digito"]
+
+}
