@@ -1,0 +1,12 @@
+En el mes: 1 se vendio: 200
+En el mes: 2 se vendio: 300
+En el mes: 3 se vendio: 412
+En el mes: 4 se vendio: 123
+En el mes: 5 se vendio: 543
+En el mes: 6 se vendio: 74
+En el mes: 7 se vendio: 645
+En el mes: 8 se vendio: 765
+En el mes: 9 se vendio: 7823
+En el mes: 10 se vendio: 234
+En el mes: 11 se vendio: 123
+En el mes: 12 se vendio: 4321

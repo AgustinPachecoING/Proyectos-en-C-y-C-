@@ -1,0 +1,160 @@
+La region: 1
+El vendedor: 1 
+En el mes: 1 se vendio: 8100
+En el mes: 2 se vendio: 9000
+En el mes: 3 se vendio: 6100
+En el mes: 4 se vendio: 1030
+En el mes: 5 se vendio: 1234
+En el mes: 6 se vendio: 1000
+En el mes: 7 se vendio: 1000
+En el mes: 8 se vendio: 1010
+En el mes: 9 se vendio: 1900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 1026
+En el mes: 12 se vendio: 11000
+El vendedor: 2 
+En el mes: 1 se vendio: 7200
+En el mes: 2 se vendio: 9000
+En el mes: 3 se vendio: 6700
+En el mes: 4 se vendio: 7030
+En el mes: 5 se vendio: 7902
+En el mes: 6 se vendio: 7000
+En el mes: 7 se vendio: 7000
+En el mes: 8 se vendio: 7010
+En el mes: 9 se vendio: 7900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 7026
+En el mes: 12 se vendio: 71000
+El vendedor: 3 
+En el mes: 1 se vendio: 3000
+En el mes: 2 se vendio: 3000
+En el mes: 3 se vendio: 6300
+En el mes: 4 se vendio: 3030
+En el mes: 5 se vendio: 3003
+En el mes: 6 se vendio: 3000
+En el mes: 7 se vendio: 3000
+En el mes: 8 se vendio: 3010
+En el mes: 9 se vendio: 3900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 3026
+En el mes: 12 se vendio: 31000
+La region: 2
+El vendedor: 1 
+En el mes: 1 se vendio: 6000
+En el mes: 2 se vendio: 6000
+En el mes: 3 se vendio: 6600
+En el mes: 4 se vendio: 6030
+En el mes: 5 se vendio: 6004
+En el mes: 6 se vendio: 6000
+En el mes: 7 se vendio: 6000
+En el mes: 8 se vendio: 6010
+En el mes: 9 se vendio: 6900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 6026
+En el mes: 12 se vendio: 61000
+El vendedor: 2 
+En el mes: 1 se vendio: 6000
+En el mes: 2 se vendio: 6000
+En el mes: 3 se vendio: 6600
+En el mes: 4 se vendio: 6030
+En el mes: 5 se vendio: 6005
+En el mes: 6 se vendio: 6000
+En el mes: 7 se vendio: 6000
+En el mes: 8 se vendio: 6010
+En el mes: 9 se vendio: 6900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 6026
+En el mes: 12 se vendio: 61000
+El vendedor: 3 
+En el mes: 1 se vendio: 1000
+En el mes: 2 se vendio: 1000
+En el mes: 3 se vendio: 6100
+En el mes: 4 se vendio: 1030
+En el mes: 5 se vendio: 1006
+En el mes: 6 se vendio: 1000
+En el mes: 7 se vendio: 1000
+En el mes: 8 se vendio: 1010
+En el mes: 9 se vendio: 1900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 1026
+En el mes: 12 se vendio: 11000
+La region: 3
+El vendedor: 1 
+En el mes: 1 se vendio: 1000
+En el mes: 2 se vendio: 1000
+En el mes: 3 se vendio: 6100
+En el mes: 4 se vendio: 1030
+En el mes: 5 se vendio: 1001
+En el mes: 6 se vendio: 1000
+En el mes: 7 se vendio: 1000
+En el mes: 8 se vendio: 1010
+En el mes: 9 se vendio: 1900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 1026
+En el mes: 12 se vendio: 11000
+El vendedor: 2 
+En el mes: 1 se vendio: 1000
+En el mes: 2 se vendio: 2000
+En el mes: 3 se vendio: 6200
+En el mes: 4 se vendio: 2030
+En el mes: 5 se vendio: 2003
+En el mes: 6 se vendio: 2000
+En el mes: 7 se vendio: 2000
+En el mes: 8 se vendio: 2010
+En el mes: 9 se vendio: 2900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 2026
+En el mes: 12 se vendio: 21000
+El vendedor: 3 
+En el mes: 1 se vendio: 1003
+En el mes: 2 se vendio: 1000
+En el mes: 3 se vendio: 6100
+En el mes: 4 se vendio: 1030
+En el mes: 5 se vendio: 1002
+En el mes: 6 se vendio: 1000
+En el mes: 7 se vendio: 1000
+En el mes: 8 se vendio: 1010
+En el mes: 9 se vendio: 1900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 1026
+En el mes: 12 se vendio: 11000
+La region: 4
+El vendedor: 1 
+En el mes: 1 se vendio: 4004
+En el mes: 2 se vendio: 4000
+En el mes: 3 se vendio: 6400
+En el mes: 4 se vendio: 4030
+En el mes: 5 se vendio: 4003
+En el mes: 6 se vendio: 4000
+En el mes: 7 se vendio: 4000
+En el mes: 8 se vendio: 4010
+En el mes: 9 se vendio: 4900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 4026
+En el mes: 12 se vendio: 41000
+El vendedor: 2 
+En el mes: 1 se vendio: 5001
+En el mes: 2 se vendio: 5000
+En el mes: 3 se vendio: 6500
+En el mes: 4 se vendio: 5030
+En el mes: 5 se vendio: 5004
+En el mes: 6 se vendio: 5000
+En el mes: 7 se vendio: 5000
+En el mes: 8 se vendio: 5010
+En el mes: 9 se vendio: 5900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 5026
+En el mes: 12 se vendio: 51000
+El vendedor: 3 
+En el mes: 1 se vendio: 5000
+En el mes: 2 se vendio: 5000
+En el mes: 3 se vendio: 6500
+En el mes: 4 se vendio: 5030
+En el mes: 5 se vendio: 5005
+En el mes: 6 se vendio: 5000
+En el mes: 7 se vendio: 5000
+En el mes: 8 se vendio: 5010
+En el mes: 9 se vendio: 5900
+En el mes: 10 se vendio: 5000
+En el mes: 11 se vendio: 5026
+En el mes: 12 se vendio: 51000

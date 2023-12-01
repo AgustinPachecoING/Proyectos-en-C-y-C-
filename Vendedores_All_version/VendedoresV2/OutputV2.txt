@@ -1,0 +1,39 @@
+El vendedor: 1 
+En el mes: 1 se vendio: 1240
+En el mes: 2 se vendio: 1244
+En el mes: 3 se vendio: 1245
+En el mes: 4 se vendio: 124
+En el mes: 5 se vendio: 124
+En el mes: 6 se vendio: 124
+En el mes: 7 se vendio: 1274
+En el mes: 8 se vendio: 1242
+En el mes: 9 se vendio: 1244
+En el mes: 10 se vendio: 123
+En el mes: 11 se vendio: 24
+En el mes: 12 se vendio: 512
+El vendedor: 2 
+En el mes: 1 se vendio: 1242
+En el mes: 2 se vendio: 124
+En el mes: 3 se vendio: 124
+En el mes: 4 se vendio: 124
+En el mes: 5 se vendio: 1254
+En el mes: 6 se vendio: 124
+En el mes: 7 se vendio: 124
+En el mes: 8 se vendio: 1244
+En el mes: 9 se vendio: 1242
+En el mes: 10 se vendio: 345
+En el mes: 11 se vendio: 512
+En el mes: 12 se vendio: 256
+El vendedor: 3 
+En el mes: 1 se vendio: 1243
+En el mes: 2 se vendio: 124
+En el mes: 3 se vendio: 124
+En el mes: 4 se vendio: 1247
+En el mes: 5 se vendio: 124
+En el mes: 6 se vendio: 124
+En el mes: 7 se vendio: 1244
+En el mes: 8 se vendio: 124
+En el mes: 9 se vendio: 124
+En el mes: 10 se vendio: 512
+En el mes: 11 se vendio: 25
+En el mes: 12 se vendio: 12556

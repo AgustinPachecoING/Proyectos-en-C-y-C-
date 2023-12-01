@@ -1,0 +1,176 @@
+
+	LA REGION: ESTE
+
+Agustin
+En el mes: 1 vendio: $8100
+En el mes: 2 vendio: $9000
+En el mes: 3 vendio: $6100
+En el mes: 4 vendio: $1030
+En el mes: 5 vendio: $1234
+En el mes: 6 vendio: $1000
+En el mes: 7 vendio: $1000
+En el mes: 8 vendio: $1010
+En el mes: 9 vendio: $1900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $1026
+En el mes: 12 vendio: $11000
+
+Dante
+En el mes: 1 vendio: $7200
+En el mes: 2 vendio: $9000
+En el mes: 3 vendio: $6700
+En el mes: 4 vendio: $7030
+En el mes: 5 vendio: $7902
+En el mes: 6 vendio: $7000
+En el mes: 7 vendio: $7000
+En el mes: 8 vendio: $7010
+En el mes: 9 vendio: $7900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $7026
+En el mes: 12 vendio: $71000
+
+Barza
+En el mes: 1 vendio: $3000
+En el mes: 2 vendio: $3000
+En el mes: 3 vendio: $6300
+En el mes: 4 vendio: $3030
+En el mes: 5 vendio: $3003
+En el mes: 6 vendio: $3000
+En el mes: 7 vendio: $3000
+En el mes: 8 vendio: $3010
+En el mes: 9 vendio: $3900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $3026
+En el mes: 12 vendio: $31000
+
+	LA REGION: OESTE
+
+Virna
+En el mes: 1 vendio: $6000
+En el mes: 2 vendio: $6000
+En el mes: 3 vendio: $6600
+En el mes: 4 vendio: $6030
+En el mes: 5 vendio: $6004
+En el mes: 6 vendio: $6000
+En el mes: 7 vendio: $6000
+En el mes: 8 vendio: $6010
+En el mes: 9 vendio: $6900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $6026
+En el mes: 12 vendio: $61000
+
+Lucas
+En el mes: 1 vendio: $6000
+En el mes: 2 vendio: $6000
+En el mes: 3 vendio: $6600
+En el mes: 4 vendio: $6030
+En el mes: 5 vendio: $6005
+En el mes: 6 vendio: $6000
+En el mes: 7 vendio: $6000
+En el mes: 8 vendio: $6010
+En el mes: 9 vendio: $6900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $6026
+En el mes: 12 vendio: $61000
+
+Facundo
+En el mes: 1 vendio: $1000
+En el mes: 2 vendio: $1000
+En el mes: 3 vendio: $6100
+En el mes: 4 vendio: $1030
+En el mes: 5 vendio: $1006
+En el mes: 6 vendio: $1000
+En el mes: 7 vendio: $1000
+En el mes: 8 vendio: $1010
+En el mes: 9 vendio: $1900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $1026
+En el mes: 12 vendio: $11000
+
+	LA REGION: NORTE
+
+Sebas
+En el mes: 1 vendio: $1000
+En el mes: 2 vendio: $1000
+En el mes: 3 vendio: $6100
+En el mes: 4 vendio: $1030
+En el mes: 5 vendio: $1001
+En el mes: 6 vendio: $1000
+En el mes: 7 vendio: $1000
+En el mes: 8 vendio: $1010
+En el mes: 9 vendio: $1900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $1026
+En el mes: 12 vendio: $11000
+
+Jose Maria
+En el mes: 1 vendio: $1000
+En el mes: 2 vendio: $2000
+En el mes: 3 vendio: $6200
+En el mes: 4 vendio: $2030
+En el mes: 5 vendio: $2003
+En el mes: 6 vendio: $2000
+En el mes: 7 vendio: $2000
+En el mes: 8 vendio: $2010
+En el mes: 9 vendio: $2900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $2026
+En el mes: 12 vendio: $21000
+
+Juan Cruz
+En el mes: 1 vendio: $1003
+En el mes: 2 vendio: $1000
+En el mes: 3 vendio: $6100
+En el mes: 4 vendio: $1030
+En el mes: 5 vendio: $1002
+En el mes: 6 vendio: $1000
+En el mes: 7 vendio: $1000
+En el mes: 8 vendio: $1010
+En el mes: 9 vendio: $1900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $1026
+En el mes: 12 vendio: $11000
+
+	LA REGION: SUR
+
+Ame
+En el mes: 1 vendio: $4004
+En el mes: 2 vendio: $4000
+En el mes: 3 vendio: $6400
+En el mes: 4 vendio: $4030
+En el mes: 5 vendio: $4003
+En el mes: 6 vendio: $4000
+En el mes: 7 vendio: $4000
+En el mes: 8 vendio: $4010
+En el mes: 9 vendio: $4900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $4026
+En el mes: 12 vendio: $41000
+
+Oliver
+En el mes: 1 vendio: $5001
+En el mes: 2 vendio: $5000
+En el mes: 3 vendio: $6500
+En el mes: 4 vendio: $5030
+En el mes: 5 vendio: $5004
+En el mes: 6 vendio: $5000
+En el mes: 7 vendio: $5000
+En el mes: 8 vendio: $5010
+En el mes: 9 vendio: $5900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $5026
+En el mes: 12 vendio: $51000
+
+Logan
+En el mes: 1 vendio: $5000
+En el mes: 2 vendio: $5000
+En el mes: 3 vendio: $6500
+En el mes: 4 vendio: $5030
+En el mes: 5 vendio: $5005
+En el mes: 6 vendio: $5000
+En el mes: 7 vendio: $5000
+En el mes: 8 vendio: $5010
+En el mes: 9 vendio: $5900
+En el mes: 10 vendio: $5000
+En el mes: 11 vendio: $5026
+En el mes: 12 vendio: $51000
